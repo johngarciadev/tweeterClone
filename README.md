@@ -8,4 +8,4 @@ Next, instructions about how to run the application:
 
 * Once there, run "rails s"
 
-
+* In your preferred browser, type: "localhost:3000" and start to test the application
