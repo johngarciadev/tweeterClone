@@ -1,24 +1,11 @@
 # Twiteer Clone
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Next, instructions about how to run the application:
 
-Things you may want to cover:
+* Clone the project to a working directory in your computer from this link: https://github.com/johngarciadev/tweeterClone.git 
 
-* Ruby version
+* Through a terminal, get in the directory "/tweeterClone"
 
-* System dependencies
+* Once there, run "rails s"
 
-* Configuration
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
